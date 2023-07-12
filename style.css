@@ -1,0 +1,35 @@
+body {
+    font-family: 'PT Serif', serif;
+    background:lightgreen ;
+
+}
+.header_div {
+    background:lightgoldenrodyellow;
+    color: red;
+}
+.header_div p {
+    font-family: 'Inconsolata', monospace;
+    color: lightslategray;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-size: 12px;
+}
+.main_div button {
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+    font-size: medium;
+    margin-top: 35px;
+    letter-spacing: 1.69420px;
+    width: 130px;
+}
+.copy_right_footer {
+    font-size: 18px;
+    font-weight: bolder;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background-color: paleturquoise;
+    text-shadow: 5px 5px 5px lightslategray;
+}
